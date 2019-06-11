@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalConceptSet
+  SavedSource="file:///D:/C-Drive/rbutros/Documents/My Translated Projects/NewProject-8.liprjf/Target/Output/rallahwerdy/Temporary/GlobalConceptSet v.6.catapultconceptset">
+  <Concepts />
+  <SourceUrls>
+    <Url
+      Source="NewTopic.htm" />
+    <Url
+      Source="NewTopic.htm.skl" />
+    <Url
+      Source="NewTopic.htm.xlf" />
+    <Url
+      Source="Topic.htm" />
+    <Url
+      Source="Topic.htm.skl" />
+    <Url
+      Source="Topic.htm.xlf" />
+    <Url
+      Source="One/Two/Three/Test 2.htm" />
+    <Url
+      Source="One/Two/Three/Test 2.htm.skl" />
+    <Url
+      Source="One/Two/Three/Test 2.htm.xlf" />
+    <Url
+      Source="oneb/Two/Topic.htm" />
+    <Url
+      Source="oneb/Two/Topic.htm.skl" />
+    <Url
+      Source="oneb/Two/Topic.htm.xlf" />
+    <Url
+      Source="Resources/Images/!kim.jpg" />
+    <Url
+      Source="Resources/Images/!kim.jpg.props.skl" />
+    <Url
+      Source="Resources/Images/!kim.jpg.xlf" />
+    <Url
+      Source="Resources/Images/!kimb.jpg" />
+    <Url
+      Source="Resources/Images/!kimb.jpg.props.skl" />
+    <Url
+      Source="Resources/Images/!kimb.jpg.xlf" />
+    <Url
+      Source="Resources/Images/01.PNG" />
+    <Url
+      Source="Resources/Images/01.PNG.props.skl" />
+    <Url
+      Source="Resources/Images/01.PNG.xlf" />
+    <Url
+      Source="Resources/Images/01b.PNG" />
+    <Url
+      Source="Resources/Images/01b.PNG.props.skl" />
+    <Url
+      Source="Resources/Images/01b.PNG.xlf" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl.skl" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl.xlf" />
+    <Url
+      Source="Resources/Stylesheets/Modern.css" />
+    <Url
+      Source="Resources/Stylesheets/Modern.css.skl" />
+    <Url
+      Source="Resources/Stylesheets/Modern.css.xlf" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css.skl" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css.xlf" />
+  </SourceUrls>
+  <UsedUrls />
+  <UsedConceptControlUrls />
+</CatapultGlobalConceptSet>

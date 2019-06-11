@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="Test 2.htm"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="xhtml"
+    target-language="ar">
+    <header>
+      <skl><external-file
+          href="Test 2.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">13</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">9</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 10"
+        tool-name="Lingo"
+        tool-version="10.1.6367.6648"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-madcap:footnote"
+        phase-name="pretrans"><source>Second conditioned footnote</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:conditions="Default.ScreenOnly">Second conditioned footnote</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>KimImage Screentip</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:conditions="Default.ScreenOnly"
+            comment="img">KimImage Screentip</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>KimImage AltText</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:conditions="Default.ScreenOnly"
+            comment="img">KimImage AltText</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>Smiley Screentip</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:conditions="Default.ScreenOnly"
+            comment="img">Smiley Screentip</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>Smiley Alttext</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:conditions="Default.ScreenOnly"
+            comment="img">Smiley Alttext</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>KimImage Screentip conditioned inline</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:conditions="Default.ScreenOnly"
+            comment="img">KimImage Screentip conditioned inline</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>KimImage AltText conditioned inline</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:conditions="Default.ScreenOnly"
+            comment="img">KimImage AltText conditioned inline</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xhtml-img-title"
+        phase-name="pretrans"><source>Smiley Screentip conditioned inline</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:conditions="Default.ScreenOnly"
+            comment="img">Smiley Screentip conditioned inline</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xhtml-img-alt"
+        phase-name="pretrans"><source>Smiley Alttext conditioned inline</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:conditions="Default.ScreenOnly"
+            comment="img">Smiley Alttext conditioned inline</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xml-h1"
+        phase-name="pretrans"><source>Test 2</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Test 2</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Excluded text in a div.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:conditions="Default.PrintOnly">Excluded text in a div.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>End of this line there's a footnote </source><seg-source><mrk
+            mtype="seg"
+            mid="1">End of this line there's a footnote</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

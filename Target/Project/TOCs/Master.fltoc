@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="LinkedBook"
+    Link="/Content/One/Two/Three/Test 2.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Topic.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Unlinked">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Topic.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/One/Two/Three/Test 2.htm" />
+  </TocEntry>
+</CatapultToc>
